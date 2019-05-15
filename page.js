@@ -67,10 +67,3 @@ function register_swipes(right_target, left_target) {
         e.preventDefault();
     };
 }
-
-
-<!-- Google Analytics -->
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-140297907-1', 'auto');
-ga('send', 'pageview');
-<!-- End Google Analytics -->
